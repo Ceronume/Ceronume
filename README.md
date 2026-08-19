@@ -41,10 +41,10 @@
 
 ### 📫 Di Mana Gue Bisa Dihubungi?
 
-- 💌 Email: [email@example.com]
-- 🐦 Twitter: [@username]
+- 💌 Email: fujiwaratakumitofushop@gmail.com
+- 🐦 Twitter: @_CodeHack
 - 💼 LinkedIn: [linkedin.com/in/username]
-- 📸 Instagram: [@username]
+- 📸 Instagram: @6113124Z
 
 Atau langsung aja buka repo kalau mau lihat kode jelek gue. Tapi ingat, **jangan liat commit lama**. Gue malu. 😳
 
