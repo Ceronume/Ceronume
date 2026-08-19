@@ -43,7 +43,7 @@
 
 - 💌 Email: fujiwaratakumitofushop@gmail.com
 - 🐦 Twitter: @_CodeHack
-- 💼 LinkedIn: [linkedin.com/in/username]
+- 💼 LinkedIn: linkedin.com/in/syafiq-gibran
 - 📸 Instagram: @6113124Z
 
 Atau langsung aja buka repo kalau mau lihat kode jelek gue. Tapi ingat, **jangan liat commit lama**. Gue malu. 😳
