@@ -1,4 +1,4 @@
-<h1 align="center">Halo, gue Gibran. Lu bisa panggil gue GB 👋</h1>
+<h1 align="center">Halo, gue Gibran 👋</h1>
 <h3 align="center">👨‍💻 Kadang ngoding, kadang nge-game 🛌</h3>
 
 <p align="center">
@@ -15,7 +15,7 @@
 - 🤔 Butuh bantuan buat debug kode yang tadi malem masih jalan
 - 💬 Boleh tanya-tanya, tapi gue juga bingung 😅
 - 📫 Hubungi gue di [email / sosmed] — tapi jangan spam ya 🙏
-- 😄 Panggil aja: [Nama Panggilan]
+- 😄 Panggil aja: GB
 - ⚡ Fakta ga penting: **Gue pernah nyerah, terus lanjut lagi, terus nyerah lagi.** Namanya hidup.
 
 > "Ini bukan bug, ini fitur tersembunyi."
