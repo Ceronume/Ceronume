@@ -42,7 +42,7 @@
 ### 📊 Statistik GitHub (Biar keliatan sibuk)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?Ceronume=username&show_icons=true&theme=radical" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ceronume&show_icons=true&theme=radical" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ceronume&layout=compact&theme=radical" width="42%" />
 </p>
 
