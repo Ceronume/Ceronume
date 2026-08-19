@@ -39,27 +39,6 @@
 
 ---
 
-### 📊 Statistik GitHub (Biar keliatan sibuk)
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ceronume&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ceronume&layout=compact&theme=radical" width="42%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ceronume&theme=radical" width="60%" />
-</p>
-
----
-
-### 🐍 Kontribusi Lewat Ular
-
-![snake gif](https://github.com/username/username/blob/output/github-contribution-grid-snake.gif)
-
-Kalo ularnya nggak muncul, berarti kamu belum nyalain GitHub Actions. Santai, itu juga cuma hiasan. 🐍
-
----
-
 ### 📫 Di Mana Gue Bisa Dihubungi?
 
 - 💌 Email: [email@example.com]
