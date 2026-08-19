@@ -74,5 +74,5 @@ Atau langsung aja buka repo kalau mau lihat kode jelek gue. Tapi ingat, **jangan
 <p align="center">⭐ Star repo gue kalau kamu merasa relate. Gue juga butuh validasi. 🥹⭐</p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=username&color=ff69b4&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Ceronume&color=ff69b4&style=flat" alt="Profile views" />
 </p>
