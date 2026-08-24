@@ -48,7 +48,7 @@ Atau langsung aja buka repo kalau mau lihat kode jelek gue. Tapi ingat, **jangan
 
 ---
 
-<p align="center">Sedikit kata-kata dari gw, **Wo ein Wille ist, ist auch ein Weg**</p>
+<p align="center">Sedikit kata-kata dari gw, ***Wo ein Wille ist, ist auch ein Weg***</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Ceronume&color=ff69b4&style=flat" alt="Profile views" />
