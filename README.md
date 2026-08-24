@@ -15,7 +15,7 @@
 - Boleh tanya-tanya apa aja, tapi gue juga bingung
 - Hubungi gue di IG (@6113124Z) -- tapi jangan spam yaa...
 - Fakta ga penting: **Gw pernah nyerah, terus lanjut lagi, terus nyerah lagi.** Namanya juga hidup wkwkwk.
-- Fun fact, gw masih 15 tahun... wkwkwk
+- FYI, gw masih 15 tahun... wkwkwk
 
 > "Ini bukan bug, ini fitur tersembunyi."
 > -- Developer cowo sadgirl --
