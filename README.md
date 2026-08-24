@@ -1,5 +1,5 @@
-<h1 align="center">Halo, gue Gibran 👋</h1>
-<h3 align="center">👨‍💻 Kadang ngoding, kadang nge-game 🛌</h3>
+<h1 align="center">Halo, nama gue Gibran. Panggil aja GB 👋</h1>
+<h3 align="center"> Gue itu orangnya kadang ngoding, kadang nge-game</h3>
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" />
@@ -7,23 +7,22 @@
 
 ---
 
-### 🧐 Tentang Gue
+### Tentang Gue
 
-- 🔭 Lagi nyari *side quest* / project baru yang seru
-- 🌱 Lagi belajar **hal yang bakal gue lupa minggu depan** 😮‍💨
-- 👯 Pengen kolaborasi, tapi malu-maluin 🤝
-- 🤔 Butuh bantuan buat debug kode yang tadi malem masih jalan
-- 💬 Boleh tanya-tanya, tapi gue juga bingung 😅
-- 📫 Hubungi gue di [email / sosmed] — tapi jangan spam ya 🙏
-- 😄 Panggil aja: GB
-- ⚡ Fakta ga penting: **Gue pernah nyerah, terus lanjut lagi, terus nyerah lagi.** Namanya hidup.
+- Lagi nyari *side quest* / project baru yang seru
+- Lagi belajar **hal yang bakal gw lupa minggu depan**
+- Butuh bantuan buat debug kode yang tadi malem masih jalan
+- Boleh tanya-tanya apa aja, tapi gue juga bingung
+- Hubungi gue di IG (@6113124Z) -- tapi jangan spam yaa...
+- Panggil aja: GB
+- Fakta ga penting: **Gw pernah nyerah, terus lanjut lagi, terus nyerah lagi.** Namanya juga hidup wkwkwk.
 
 > "Ini bukan bug, ini fitur tersembunyi."
-> — Developer galau 🐛✨
+> -- Developer cowo sadgirl --
 
 ---
 
-### 🚀 Tech Stack yang (Katanya) Gue Kuasai
+### Tech Stack yang Gue Kuasai
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
@@ -32,14 +31,13 @@
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
 
-> Masih pengen nambain? Tambahin aja sendiri, gue capek ngetik. 😌
+> Masih pengen nambain? Tambahin baek dah dewek, capek ngetik..
 
 ---
 
-### 📫 Di Mana Gue Bisa Dihubungi?
+### Di Mana Gw Bisa Dihubungi?
 
 - 💌 Email: fujiwaratakumitofushop@gmail.com
 - 🐦 Twitter: @_CodeHack
