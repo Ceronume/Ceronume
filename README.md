@@ -44,8 +44,6 @@
 - 💼 LinkedIn: linkedin.com/in/syafiq-gibran
 - 📸 Instagram: @6113124Z
 
-Atau langsung aja buka repo kalau mau lihat kode jelek gue. Tapi ingat, **jangan liat commit lama**. Gue malu. 😳
-
 ---
 
 <p align="center">Sedikit kata-kata dari gw. <strong><em>Wo ein Wille ist, ist auch ein Weg</em></strong></p>
