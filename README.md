@@ -1,5 +1,5 @@
 <h1 align="center">Halo, nama gue Gibran. Panggil aja GB 👋</h1>
-<h3 align="center"> Gue itu orangnya kadang ngoding, kadang nge-game</h3>
+<h3 align="center"> Gue itu orangnya kadang ngoding, kadang nge-game hehee</h3>
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" />
